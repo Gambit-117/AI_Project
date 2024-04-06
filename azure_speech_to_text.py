@@ -173,7 +173,7 @@ class SpeechToTextManager:
 # Tests
 if __name__ == '__main__':
 
-    TEST_FILE = "D:\Video Editing\Misc - Ai teaches me to pass History Exam\Audio\Misc - Ai teaches me to pass History Exam - VO 1.wav"
+    TEST_FILE = "TEST FILE"
     
     speechtotext_manager = SpeechToTextManager()
 
